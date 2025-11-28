@@ -30,3 +30,26 @@ git init
 Make it executable: chmod +x install.sh
 
 Final Step: Build & Run
+
+
+This project (Cortex-AC) is released exclusively for:
+- Educational and research purposes
+- Private/offline testing
+- Studying modern Linux kernel security mechanisms (eBPF, LSM, etc.)
+
+The authors, contributors, and distributors of this code are NOT responsible and will NOT be held liable if you:
+- Attempt to use this software while playing Call of Duty (Warzone, Modern Warfare III, Black Ops 6, etc.)
+- Attempt to use this software while playing Apex Legends
+- Connect to any official Activision, Respawn, EA, Steam, BattlEye, Easy Anti-Cheat, or Ricochet-protected servers
+
+Doing so will almost certainly violates the games’ Terms of Service and Code of Conduct and will very likely result in:
+- Permanent account ban
+- Hardware/ID (HWID) ban
+- Shadow-ban or ranked restrictions
+- Complete loss of access to the game and all associated purchases
+
+There is overwhelming evidence from 2024–2025 that both Ricochet and Easy Anti-Cheat actively detect and ban for unsigned kernel modules, custom eBPF programs, LSM hooks, and any form of kernel-level memory/process monitoring on Linux — exactly what this project does.
+
+You have been clearly and explicitly warned.
+
+By downloading, compiling, loading, or using Cortex-AC on a system that ever connects to the official servers of the above games, you accept 100 % of the risk and consequences. No support or sympathy will be provided for banned accounts.
