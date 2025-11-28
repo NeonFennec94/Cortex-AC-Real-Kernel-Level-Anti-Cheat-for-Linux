@@ -1,0 +1,9 @@
+[package]
+name = "cortex-daemon"
+version = "1.0.0"
+edition = "2021"
+
+[dependencies]
+libbpf-rs = "0.23"
+libbpf-cargo = "0.23"
+anyhow = "1.0"
