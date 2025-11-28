@@ -30,5 +30,3 @@ git init
 Make it executable: chmod +x install.sh
 
 Final Step: Build & Run
-git remote add origin https://github.com/yourname/cortex-ac.git
-git push -u origin main
