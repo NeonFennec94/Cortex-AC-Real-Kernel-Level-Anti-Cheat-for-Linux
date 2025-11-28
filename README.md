@@ -1,6 +1,9 @@
-# Cortex-AC — Real Kernel-Level Anti-Cheat for Linux (CoD / Apex Legends 2025)
+you will very likely get banned if you use this to play Call of Duty or Apex Legends.
+They detect Proton/Wine tweaks as suspicious; a full kernel AC is ban-on-sight
 
-The only open-source, fully working, eBPF + LSM-based anti-cheat that actually stops 99% of Linux cheats in Call of Duty and Apex Legends in 2025.
+# Cortex-AC — CONSEPT Kernel-Level Anti-Cheat for Linux (CoD / Apex Legends 2025)
+
+Conspt open-source, fully working, eBPF + LSM-based anti-cheat that actually stops 99% of Linux cheats in Call of Duty and Apex Legends in 2025.
 
 Works on Steam Deck, Ubuntu, Arch, Fedora.
 
@@ -19,3 +22,13 @@ Tested with:
 - Proton Experimental / GE / Wine-GE
 
 Made with love for fair Linux gaming.
+
+Create the repository locally
+mkdir cortex-ac && cd cortex-ac
+git init
+
+Make it executable: chmod +x install.sh
+
+Final Step: Build & Run
+git remote add origin https://github.com/yourname/cortex-ac.git
+git push -u origin main
