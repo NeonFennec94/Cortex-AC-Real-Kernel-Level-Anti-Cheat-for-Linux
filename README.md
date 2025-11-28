@@ -16,7 +16,7 @@ Features:
 - Signed eBPF + optional LSM module
 - Works perfectly with Proton/Wine
 
-Tested with:
+Not Tested:
 - Call of Duty: Black Ops 6 / Warzone / MW3
 - Apex Legends (Season 23+)
 - Proton Experimental / GE / Wine-GE
